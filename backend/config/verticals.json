@@ -1,0 +1,96 @@
+{
+  "Acute Care": [
+    "RN",
+    "registered nurse",
+    "ICU RN",
+    "ICU",
+    "ER RN",
+    "er",
+
+    "Med Surg RN",
+    "OR RN",
+    "Cath Lab RN",
+    "PACU RN",
+    "L&D RN",
+    "CNA"
+  ],
+
+  "Allied Health": [
+    "Respiratory Therapist",
+    "Respiratory",
+    "Ultrasound",
+    "lab",
+    "RRT",
+    "CRT",
+    "RT",
+    "Radiology Tech",
+    "Rad Tech",
+    "CT Tech",
+    "MRI Tech",
+    "Ultrasound Tech",
+    "Sonographer",
+    "Echo Tech",
+    "Mammography Tech",
+    "MLT",
+    "MLS",
+    "Medical Technologist",
+    "Lab Technician",
+    "Phlebotomist",
+    "Pharmacy Tech",
+    "Pharmacist",
+    "Clinical Pharmacist",
+    "Physical Therapist",
+    "PT",
+    "Occupational Therapist",
+    "OT",
+    "Speech Therapist",
+    "SLP",
+    "COTA"
+  ],
+
+  "Non-Acute": [
+    "CNA",
+    "LPN",
+    "registered nurse",
+    "RN",
+    "Charge Nurse",
+    "Nurse Supervisor",
+    "Behavioral Health Tech",
+    "Mental Health Tech",
+    "Case Manager",
+    "Counselor",
+    "Therapist",
+    "Social Worker",
+    "Medical Assistant",
+    "Care Coordinator",
+    "Patient Access",
+    "Correctional RN",
+    "Mental Health Professional",
+    "Hospice RN"
+  ],
+
+  "Educational": [
+    "Special Education Teacher",
+    "School Psychologist",
+    "SLP",
+    "OT/PT",
+    "Social Worker",
+    "Behavioral Specialist",
+    "Paraprofessional"
+  ],
+
+  "Government": [
+    "RN",
+    "registered nurse",
+    "LPN",
+    "CNA",
+    "Behavioral Health",
+    "Social Worker",
+    "Medical Assistant",
+    "Case Manager",
+    "Psych Nurse",
+    "Public Health Nurse",
+    "Allied Health",
+    "Administrative Support"
+  ]
+}
