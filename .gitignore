@@ -10,12 +10,6 @@ __pycache__/
 .env.*
 !.env.example
 
-build/
-
-exports/
-output/
-outputs/
-
 *.csv
 *.xlsx
 *.xls
